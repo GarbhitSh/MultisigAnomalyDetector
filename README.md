@@ -42,7 +42,7 @@ Checks for:
 * Method sensitivity
 * Signature behavior patterns
 Produces alerts with full metadata
-
+![Alt text](https://github.com/GarbhitSh/MultisigAnomalyDetector/blob/main/autoDiagram_a58ca37fbe73a6a645da139994ec772af6bba821ff0545965072154e67be7bce.png)
 ## Testing
 
 Run unit tests:
